@@ -1,0 +1,427 @@
+[
+  {
+    "id": "1",
+    "name": "Giovanni Rossi",
+    "years_of_experience": 20,
+    "no_of_recipes": 100,
+    "recipes": [
+      {
+        "recipe_name": "Spaghetti Carbonara",
+        "ingredients": [
+          "spaghetti",
+          "pancetta",
+          "eggs",
+          "parmesan cheese",
+          "black pepper"
+        ],
+        "cooking_method": "Cook spaghetti, brown pancetta, mix eggs and parmesan cheese, combine",
+        "rating": 4.7
+      },
+      {
+        "recipe_name": "Osso Buco",
+        "ingredients": [
+          "veal shanks",
+          "carrots",
+          "celery",
+          "onion",
+          "tomatoes"
+        ],
+        "cooking_method": "Brown veal shanks, saute vegetables, add tomatoes and broth, simmer",
+        "rating": 4.5
+      },
+      {
+        "recipe_name": "Tiramisu",
+        "ingredients": [
+          "ladyfingers",
+          "espresso",
+          "marsala wine",
+          "mascarpone cheese",
+          "cocoa powder"
+        ],
+        "cooking_method": "Soak ladyfingers in espresso and marsala wine, layer with mascarpone cheese, dust with cocoa powder",
+        "rating": 4.8
+      },
+      {
+        "recipe_name": "Margherita Pizza",
+        "ingredients": [
+          "pizza dough",
+          "tomatoes",
+          "mozzarella cheese",
+          "basil",
+          "olive oil"
+        ],
+        "cooking_method": "Roll out pizza dough, top with sliced tomatoes and mozzarella cheese, bake, garnish with basil and olive oil",
+        "rating": 4.6
+      },
+      {
+        "recipe_name": "Lasagna",
+        "ingredients": [
+          "lasagna noodles",
+          "ground beef",
+          "tomato sauce",
+          "ricotta cheese",
+          "mozzarella cheese"
+        ],
+        "cooking_method": "Cook lasagna noodles, brown ground beef and add tomato sauce, layer with ricotta and mozzarella cheese, bake",
+        "rating": 4.4
+      }
+    ],
+    "pic_of_chef": "https://example.com/chef1.jpg",
+    "short_bio": "Giovanni Rossi is a renowned Italian chef with over 20 years of experience in creating authentic Italian dishes.",
+    "likes": 2000
+  },
+  {
+    "id": "2",
+    "name": "Maria Bianchi",
+    "years_of_experience": 15,
+    "no_of_recipes": 80,
+    "recipes": [
+      {
+        "recipe_name": "Gnocchi alla Sorrentina",
+        "ingredients": [
+          "potatoes",
+          "flour",
+          "tomato sauce",
+          "mozzarella cheese",
+          "basil"
+        ],
+        "cooking_method": "Boil potatoes, mash and mix with flour, shape into gnocchi, top with tomato sauce and mozzarella cheese, bake",
+        "rating": 4.6
+      },
+      {
+        "recipe_name": "Pesto Pasta",
+        "ingredients": [
+          "pasta",
+          "basil",
+          "pine nuts",
+          "garlic",
+          "parmesan cheese"
+        ],
+        "cooking_method": "Cook pasta, blend basil, pine nuts, garlic, and parmesan cheese to make pesto sauce, toss with pasta",
+        "rating": 4.5
+      },
+      {
+        "recipe_name": "Minestrone Soup",
+        "ingredients": [
+          "vegetables (carrots, celery, onions, potatoes)",
+          "tomatoes",
+          "cannellini beans",
+          "pasta",
+          "parmesan cheese"
+        ],
+        "cooking_method": "Saute vegetables, add tomatoes and broth, simmer, add cannellini beans and pasta, top with parmesan cheese",
+        "rating": 4.4
+      },
+      {
+        "recipe_name": "Fettuccine Alfredo",
+        "ingredients": [
+          "fettuccine pasta",
+          "heavy cream",
+          "butter",
+          "parmesan cheese",
+          "black pepper"
+        ],
+        "cooking_method": "Cook pasta, melt butter and cream, add parmesan cheese and black pepper, toss with pasta",
+        "rating": 4.7
+      },
+      {
+        "recipe_name": "Torta della Nonna",
+        "ingredients": [
+          "pastry dough",
+          "pastry cream",
+          "pine nuts",
+          "almonds",
+          "powdered sugar"
+        ],
+        "cooking_method": "Bake pastry dough, fill with pastry cream, top with pine nuts, almonds, and powdered sugar",
+        "rating": 4.8
+      }
+    ],
+    "pic_of_chef": "https://example.com/chef2.jpg",
+    "short_bio": "Maria Bianchi is a skilled Italian chef with over 15 years of experience in creating traditional Italian dishes.",
+    "likes": 1500
+  },
+  {
+    "id": "3",
+    "name": "Antonio Russo",
+    "years_of_experience": 10,
+    "no_of_recipes": 60,
+    "recipes": [
+      {
+        "recipe_name": "Risotto ai Funghi",
+        "ingredients": [
+          "arborio rice",
+          "mushrooms",
+          "onion",
+          "parmesan cheese",
+          "white wine"
+        ],
+        "cooking_method": "Saute mushrooms and onion, add rice and white wine, add broth gradually, finish with parmesan cheese",
+        "rating": 4.7
+      },
+      {
+        "recipe_name": "Bucatini all'Amatriciana",
+        "ingredients": [
+          "bucatini pasta",
+          "tomatoes",
+          "guanciale",
+          "pecorino cheese",
+          "red pepper flakes"
+        ],
+        "cooking_method": "Cook pasta, brown guanciale, add tomatoes and red pepper flakes, toss with pasta and pecorino cheese",
+        "rating": 4.5
+      },
+      {
+        "recipe_name": "Polpette al Sugo",
+        "ingredients": [
+          "ground beef",
+          "bread crumbs",
+          "egg",
+          "garlic",
+          "tomato sauce"
+        ],
+        "cooking_method": "Mix ground beef, bread crumbs, egg, garlic, form into meatballs, brown and simmer in tomato sauce",
+        "rating": 4.4
+      },
+      {
+        "recipe_name": "Cacio e Pepe",
+        "ingredients": [
+          "spaghetti",
+          "pecorino cheese",
+          "black pepper",
+          "olive oil"
+        ],
+        "cooking_method": "Cook spaghetti, mix pecorino cheese, black pepper, and olive oil to make sauce, toss with pasta",
+        "rating": 4.6
+      },
+      {
+        "recipe_name": "Tiramisu",
+        "ingredients": [
+          "ladyfingers",
+          "espresso",
+          "marsala wine",
+          "mascarpone cheese",
+          "cocoa powder"
+        ],
+        "cooking_method": "Soak ladyfingers in espresso and marsala wine, layer with mascarpone cheese, dust with cocoa powder",
+        "rating": 4.8
+      }
+    ],
+    "pic_of_chef": "https://example.com/chef3.jpg",
+    "short_bio": "Antonio Russo is a passionate Italian chef who specializes in making authentic Italian dishes with a modern twist.",
+    "likes": 2200
+  },
+  {
+    "id": "4",
+    "name": "Marco Bianchi",
+    "years_of_experience": 20,
+    "no_of_recipes": 120,
+    "recipes": [
+      {
+        "recipe_name": "Pappardelle with Wild Boar Ragu",
+        "ingredients": [
+          "pappardelle pasta",
+          "wild boar meat",
+          "carrots",
+          "celery",
+          "onion"
+        ],
+        "cooking_method": "Brown wild boar meat, add chopped carrots, celery, onion, tomato sauce, simmer, serve over pappardelle pasta",
+        "rating": 4.8
+      },
+      {
+        "recipe_name": "Ravioli with Truffle Cream Sauce",
+        "ingredients": [
+          "ravioli pasta",
+          "heavy cream",
+          "butter",
+          "parmesan cheese",
+          "truffle"
+        ],
+        "cooking_method": "Cook ravioli pasta, mix heavy cream, butter, parmesan cheese, and truffle, serve over ravioli pasta",
+        "rating": 4.9
+      },
+      {
+        "recipe_name": "Bruschetta",
+        "ingredients": [
+          "baguette",
+          "tomatoes",
+          "garlic",
+          "basil",
+          "olive oil"
+        ],
+        "cooking_method": "Toast baguette, mix chopped tomatoes, garlic, basil, olive oil, serve over baguette slices",
+        "rating": 4.7
+      },
+      {
+        "recipe_name": "Frittata",
+        "ingredients": [
+          "eggs",
+          "potatoes",
+          "onion",
+          "parmesan cheese",
+          "olive oil"
+        ],
+        "cooking_method": "Sauté potatoes, onion, mix with beaten eggs, add parmesan cheese, cook on stovetop",
+        "rating": 4.5
+      },
+      {
+        "recipe_name": "Tuscan Ribollita Soup",
+        "ingredients": [
+          "bread",
+          "cannellini beans",
+          "kale",
+          "carrots",
+          "onion"
+        ],
+        "cooking_method": "Simmer cannellini beans, kale, carrots, onion, add bread, cook until thick, serve hot",
+        "rating": 4.6
+      }
+    ],
+    "pic_of_chef": "https://example.com/chef7.jpg",
+    "short_bio": "Marco Bianchi is a renowned Italian chef with over 20 years of experience in the culinary industry. He is particularly skilled in creating dishes that showcase the rich and diverse flavors of Italian cuisine.",
+    "likes": 5500
+  },
+  {
+    "id": "5",
+    "name": "Francesca Moretti",
+    "years_of_experience": 12,
+    "no_of_recipes": 70,
+    "recipes": [
+      {
+        "recipe_name": "Lasagna al Forno",
+        "ingredients": [
+          "lasagna noodles",
+          "ground beef",
+          "onion",
+          "tomato sauce",
+          "ricotta cheese"
+        ],
+        "cooking_method": "Boil lasagna noodles, brown ground beef and onion, add tomato sauce, layer with noodles and ricotta cheese, bake",
+        "rating": 4.6
+      },
+      {
+        "recipe_name": "Bistecca alla Fiorentina",
+        "ingredients": [
+          "steak",
+          "olive oil",
+          "rosemary",
+          "lemon",
+          "salt"
+        ],
+        "cooking_method": "Season steak with olive oil, rosemary, salt, grill, serve with lemon",
+        "rating": 4.8
+      },
+      {
+        "recipe_name": "Ravioli di Zucca",
+        "ingredients": [
+          "pasta dough",
+          "butternut squash",
+          "amaretti cookies",
+          "parmigiano-reggiano cheese",
+          "sage leaves"
+        ],
+        "cooking_method": "Roast butternut squash, mix with crushed amaretti cookies and parmigiano-reggiano cheese, fill pasta dough, cook, serve with sage butter sauce",
+        "rating": 4.7
+      },
+      {
+        "recipe_name": "Tiramisu",
+        "ingredients": [
+          "ladyfingers",
+          "espresso coffee",
+          "marsala wine",
+          "mascarpone cheese",
+          "cocoa powder"
+        ],
+        "cooking_method": "Dip ladyfingers in espresso and marsala wine, layer with mascarpone cheese, chill, dust with cocoa powder",
+        "rating": 4.9
+      },
+      {
+        "recipe_name": "Minestrone Soup",
+        "ingredients": [
+          "vegetable broth",
+          "carrots",
+          "celery",
+          "onion",
+          "zucchini"
+        ],
+        "cooking_method": "Simmer vegetable broth, add chopped carrots, celery, onion, zucchini, beans, pasta, and tomato sauce, cook until tender",
+        "rating": 4.4
+      }
+    ],
+    "pic_of_chef": "https://example.com/chef5.jpg",
+    "short_bio": "Francesca Moretti is a skilled Italian chef who has been cooking since childhood. Her love for food and creativity has made her one of the top chefs in Italy.",
+    "likes": 3200
+  },
+  {
+    "id": "6",
+    "name": "Antonio Bianchi",
+    "years_of_experience": 15,
+    "no_of_recipes": 90,
+    "recipes": [
+      {
+        "recipe_name": "Osso Buco alla Milanese",
+        "ingredients": [
+          "veal shanks",
+          "carrots",
+          "celery",
+          "onion",
+          "tomato sauce"
+        ],
+        "cooking_method": "Brown veal shanks, add chopped carrots, celery, onion, tomato sauce, simmer until tender",
+        "rating": 4.8
+      },
+      {
+        "recipe_name": "Pesto alla Genovese",
+        "ingredients": [
+          "basil",
+          "garlic",
+          "pine nuts",
+          "parmesan cheese",
+          "olive oil"
+        ],
+        "cooking_method": "Blend basil, garlic, pine nuts, parmesan cheese, olive oil, serve with pasta",
+        "rating": 4.7
+      },
+      {
+        "recipe_name": "Focaccia Bread",
+        "ingredients": [
+          "flour",
+          "yeast",
+          "olive oil",
+          "rosemary",
+          "sea salt"
+        ],
+        "cooking_method": "Mix flour, yeast, olive oil, rosemary, sea salt, let rise, bake",
+        "rating": 4.5
+      },
+      {
+        "recipe_name": "Risotto alla Parmigiana",
+        "ingredients": [
+          "arborio rice",
+          "chicken broth",
+          "onion",
+          "butter",
+          "parmigiano-reggiano cheese"
+        ],
+        "cooking_method": "Sauté onion, add arborio rice, add chicken broth gradually, stir in butter and parmigiano-reggiano cheese",
+        "rating": 4.6
+      },
+      {
+        "recipe_name": "Caprese Salad",
+        "ingredients": [
+          "tomatoes",
+          "mozzarella cheese",
+          "basil",
+          "olive oil",
+          "balsamic vinegar"
+        ],
+        "cooking_method": "Layer sliced tomatoes, mozzarella cheese, and basil, drizzle with olive oil and balsamic vinegar",
+        "rating": 4.9
+      }
+    ],
+    "pic_of_chef": "https://example.com/chef6.jpg",
+    "short_bio": "Antonio Bianchi is a talented Italian chef who has been cooking for over 15 years. He is known for his traditional Italian recipes and has won many awards for his cuisine.",
+    "likes": 4500
+  }
+]
